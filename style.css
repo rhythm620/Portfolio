@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background-color: black;
+    width: 1930px;
+    height: 80px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    
+}
+.a1{
+    color:  white;
+    font-size: 30px;
+    margin-left: 50px;
+
+}
+.a2{
+    color:  white;
+    font-size: 30px;
+    margin-left: 50px;
+}
+.a3{
+    color:  white;
+    font-size: 30px;
+    margin-left: 50px;
+}
+.a4{
+    color:  white;
+    font-size: 30px;
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+}
+
+.container2{
+    width: 1910px;
+    height: 1040px;
+    background-image: url('portfolioBackground.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#typed-text{
+    font-size: 90px;
+    font-style: italic;
+    color: blue;
+    margin-top: 100px;
+}
+
+.img{
+    width: 400px;
+    height: 600px;
+    padding: 0px 0px 0px 1350px;
+    margin-top:-350px ;
+}
+p{
+    padding: 130px 20px 0px 20px;
+    font-size: 40px;
+}
